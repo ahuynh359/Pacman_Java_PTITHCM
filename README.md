@@ -6,6 +6,9 @@ và tránh các chú ma
 
 - Ở 4 góc của bản đồ sẽ có 4 cục SuperPacGum khi Pacman ăn thì ghi được 100 điểm các con ma sẽ biến thành màu xanh và chạy tán loạn, khi Pacman ăn con ma thì sẽ ghi được 300 điểm và các con ma sẽ chạy về lồng ma 
 
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/32415728/210956321-7228366d-cf5f-49f6-b815-1f15d014eff7.png">
+
+
 ## Thư viện hỗ trợ
 Java Swing
 
@@ -20,6 +23,7 @@ Tải code về và sử dụng một editor hoặc IDE để mở project này 
 
 ## Demo Đồ Án
 [Link Youtube](https://www.youtube.com/watch?v=L4qitGm8gWA)
+
 
 
 
