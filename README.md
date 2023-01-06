@@ -24,6 +24,10 @@ Tải code về và sử dụng một editor hoặc IDE để mở project này 
 ## Demo Đồ Án
 [Link Youtube](https://www.youtube.com/watch?v=L4qitGm8gWA)
 
+## Hạn chế đồ án
+- Nên thiết kế thêm màn hình `GameOver`, màn hình `Win`, lưu `HighScore` người chơi,..
+- Nên áp dụng thuật toán `A*` để cho các con Ma tìm đường đi tối ưu hơn
+
 
 
 
