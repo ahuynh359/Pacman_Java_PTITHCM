@@ -28,6 +28,8 @@ Tải code về và sử dụng một editor hoặc IDE để mở project này 
 - Nên thiết kế thêm màn hình `GameOver`, màn hình `Win`, lưu `HighScore` người chơi,..
 - Nên áp dụng thuật toán `A*` để cho các con Ma tìm đường đi tối ưu hơn
 
+## Báo cáo
+[Java_N20DCCN003.pdf](https://github.com/ahuynh359/PacmanJava/files/12907422/Java_N20DCCN003.pdf)
 
 
 
